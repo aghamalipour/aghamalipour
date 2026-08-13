@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Aliasghar Aghamalipour
 
-<!--
-**aghamalipour/aghamalipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science student** at **University of Bonab**  
+💻 Interested in **Full-Stack Development, DevOps & Cloud**
 
-Here are some ideas to get you started:
+### 🧭 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Full-Stack Web Development
+- 🟦 JavaScript & TypeScript
+- ⚛️ React
+- 🟢 Node.js
+- 🗄️ PostgreSQL & Databases
+- 🐳 Docker & CI/CD
+- ☁️ Cloud & Infrastructure
+- 🖥️ Linux & Networking
+
+### 🚀 What I'm Doing
+
+I'm building my software engineering skills through hands-on projects, experiments, and continuous learning.
+
+My focus is on understanding the complete lifecycle of a web application — from frontend and backend development to testing, deployment, cloud infrastructure, and production operations.
+
+### 📫 Connect
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aghamalipour/
+- 📧 **Email:** aghamalipour@outlook.com
+
+> 🚀 Learning by building.
